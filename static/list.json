@@ -1,0 +1,162 @@
+
+   {
+    "ofterGoods":[
+        {
+
+             "goodsId":1,
+
+             "goodsName":"香辣鸡腿堡",
+
+             "price":18
+
+         }, {
+
+             "goodsId":2,
+
+             "goodsName":"田园鸡腿堡",
+
+             "price":15
+
+         }, {
+
+             "goodsId":3,
+
+             "goodsName":"和风汉堡",
+
+             "price":15
+
+         }, {
+
+             "goodsId":4,
+
+             "goodsName":"快乐全家桶",
+
+             "price":80
+
+         }, {
+
+             "goodsId":5,
+
+             "goodsName":"脆皮炸鸡腿",
+
+             "price":10
+
+         }, {
+
+             "goodsId":6,
+
+             "goodsName":"魔法鸡块",
+
+             "price":20
+
+         }, {
+
+             "goodsId":7,
+
+             "goodsName":"可乐大杯",
+
+             "price":10
+
+         }, {
+
+             "goodsId":8,
+
+             "goodsName":"雪顶咖啡",
+
+             "price":18
+
+         }, {
+
+             "goodsId":9,
+
+             "goodsName":"大块鸡米花",
+
+             "price":15
+
+         }, {
+
+             "goodsId":20,
+
+             "goodsName":"香脆鸡柳",
+
+             "price":17
+
+         }
+    ],
+    "type0Goods":[
+        {
+             "goodsId":1,
+             "goodsImg":"http://fuss10.elemecdn.com/8/71/c5cf5715740998d5040dda6e66abfjpeg.jpeg?imageView2/1/w/180/h/180",
+             "goodsName":"香辣鸡腿堡",
+             "price":18
+         }, {
+             "goodsId":2,
+             "goodsImg":"http://fuss10.elemecdn.com/8/71/c5cf5715740998d5040dda6e66abfjpeg.jpeg?imageView2/1/w/180/h/180",
+             "goodsName":"田园鸡腿堡",
+             "price":15
+         }, {
+             "goodsId":3,
+             "goodsImg":"http://fuss10.elemecdn.com/8/71/c5cf5715740998d5040dda6e66abfjpeg.jpeg?imageView2/1/w/180/h/180",
+             "goodsName":"和风汉堡",
+             "price":15
+
+         }
+    ],
+    "type1Goods":[
+        {
+             "goodsId":1,
+             "goodsImg":"http://fuss10.elemecdn.com/8/71/c5cf5715740998d5040dda6e66abfjpeg.jpeg?imageView2/1/w/180/h/180",
+             "goodsName":"香辣鸡腿堡",
+             "price":18
+         }, {
+             "goodsId":2,
+             "goodsImg":"http://fuss10.elemecdn.com/8/71/c5cf5715740998d5040dda6e66abfjpeg.jpeg?imageView2/1/w/180/h/180",
+             "goodsName":"田园鸡腿堡",
+             "price":15
+         }, {
+             "goodsId":3,
+             "goodsImg":"http://fuss10.elemecdn.com/8/71/c5cf5715740998d5040dda6e66abfjpeg.jpeg?imageView2/1/w/180/h/180",
+             "goodsName":"和风汉堡",
+             "price":15
+
+         }
+    ],
+    "type2Goods":[
+        {
+             "goodsId":1,
+             "goodsImg":"http://fuss10.elemecdn.com/8/71/c5cf5715740998d5040dda6e66abfjpeg.jpeg?imageView2/1/w/180/h/180",
+             "goodsName":"香辣鸡腿堡",
+             "price":18
+         }, {
+             "goodsId":2,
+             "goodsImg":"http://fuss10.elemecdn.com/8/71/c5cf5715740998d5040dda6e66abfjpeg.jpeg?imageView2/1/w/180/h/180",
+             "goodsName":"田园鸡腿堡",
+             "price":15
+         }, {
+             "goodsId":3,
+             "goodsImg":"http://fuss10.elemecdn.com/8/71/c5cf5715740998d5040dda6e66abfjpeg.jpeg?imageView2/1/w/180/h/180",
+             "goodsName":"和风汉堡",
+             "price":15
+
+         }
+    ],
+    "type3Goods":[
+        {
+             "goodsId":1,
+             "goodsImg":"http://fuss10.elemecdn.com/8/71/c5cf5715740998d5040dda6e66abfjpeg.jpeg?imageView2/1/w/180/h/180",
+             "goodsName":"香辣鸡腿堡",
+             "price":18
+         }, {
+             "goodsId":2,
+             "goodsImg":"http://fuss10.elemecdn.com/8/71/c5cf5715740998d5040dda6e66abfjpeg.jpeg?imageView2/1/w/180/h/180",
+             "goodsName":"田园鸡腿堡",
+             "price":15
+         }, {
+             "goodsId":3,
+             "goodsImg":"http://fuss10.elemecdn.com/8/71/c5cf5715740998d5040dda6e66abfjpeg.jpeg?imageView2/1/w/180/h/180",
+             "goodsName":"和风汉堡",
+             "price":15
+
+         }
+    ]
+   }
